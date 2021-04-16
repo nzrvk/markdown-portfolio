@@ -3,4 +3,4 @@
 - Fifteen percent _concentrated power of will_
 - Five percent **pleasure**
 - Fifty percent __pain__
-- hundred percent "reason to remember the name"
+- hundred percent _**reason to remember the name**_
