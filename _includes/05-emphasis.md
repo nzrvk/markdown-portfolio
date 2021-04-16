@@ -1,0 +1,6 @@
+- ten percent `luck`
+- Twenty percent *skill*
+- Fifteen percent _concentrated power of will_
+- Five percent **pleasure**
+- Fifty percent __pain__
+- hundred percent _**reason to remember the name**_
